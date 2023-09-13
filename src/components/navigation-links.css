@@ -1,0 +1,137 @@
+.navigation-links-nav {
+  gap: 0;
+  flex: 0 0 auto;
+  width: 83px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.navigation-links-text {
+  color: var(--dl-color-gray-black);
+  text-align: center;
+  transition: 0.3s;
+  font-family: Courier New;
+  padding-left: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navigation-links-text:hover {
+  font-size: x-large;
+  padding-left: var(--dl-space-space-unit);
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.navigation-links-root-class-name12 {
+  top: 0px;
+  left: 0px;
+  right: -150px;
+  width: auto;
+  margin: auto;
+  position: absolute;
+}
+.navigation-links-root-class-name13 {
+  flex: 1;
+  width: auto;
+  align-self: center;
+}
+
+.navigation-links-root-class-name15 {
+  top: 0px;
+  left: 0px;
+  right: -150px;
+  width: auto;
+  margin: auto;
+  position: absolute;
+}
+
+.navigation-links-root-class-name17 {
+  flex: 1;
+  width: auto;
+  align-self: center;
+}
+
+.navigation-links-root-class-name19 {
+  top: 0px;
+  left: 0px;
+  right: -150px;
+  width: auto;
+  margin: auto;
+  position: absolute;
+}
+.navigation-links-root-class-name21 {
+  flex: 1;
+  width: auto;
+  align-self: center;
+  margin-right: var(--dl-space-space-unit);
+}
+
+.navigation-links-root-class-name23 {
+  flex: 1;
+  width: auto;
+  align-self: flex-start;
+  margin-top: 0px;
+  margin-right: var(--dl-space-space-unit);
+}
+
+.navigation-links-root-class-name25 {
+  flex: 1;
+  width: auto;
+  align-self: center;
+  margin-right: var(--dl-space-space-unit);
+}
+
+.navigation-links-root-class-name27 {
+  flex: 1;
+  width: auto;
+  align-self: center;
+  margin-right: var(--dl-space-space-unit);
+}
+
+@media(max-width: 767px) {
+  .navigation-links-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links-root-class-name13 {
+    position: 0px;
+  }
+  .navigation-links-root-class-name17 {
+    position: 0px;
+  }
+  .navigation-links-root-class-name21 {
+    position: 0px;
+  }
+  .navigation-links-root-class-name23 {
+    position: 0px;
+  }
+  .navigation-links-root-class-name25 {
+    position: 0px;
+  }
+  .navigation-links-root-class-name27 {
+    position: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .navigation-links-root-class-name15 {
+    flex: 1;
+    position: static;
+  }
+  .navigation-links-root-class-name17 {
+    height: auto;
+    position: static;
+    align-self: flex-start;
+  }
+}

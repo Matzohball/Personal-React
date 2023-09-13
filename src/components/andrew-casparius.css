@@ -1,0 +1,109 @@
+.andrew-casparius-container {
+  width: 497px;
+  height: 89px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.andrew-casparius-text {
+  color: var(--dl-color-gray-black);
+  font-size: 50px;
+  font-style: normal;
+  font-family: Courier New;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  text-transform: uppercase;
+}
+.andrew-casparius-root-class-name {
+  width: auto;
+  height: auto;
+  align-self: center;
+}
+
+
+.andrew-casparius-root-class-name3 {
+  width: auto;
+  height: auto;
+  align-self: center;
+}
+.andrew-casparius-root-class-name4 {
+  width: auto;
+  height: auto;
+  align-self: center;
+}
+.andrew-casparius-root-class-name5 {
+  width: auto;
+  height: auto;
+  align-self: center;
+}
+.andrew-casparius-root-class-name6 {
+  width: auto;
+  height: auto;
+  align-self: center;
+}
+@media(max-width: 767px) {
+  .andrew-casparius-container {
+    width: auto;
+    height: auto;
+  }
+  .andrew-casparius-text {
+    align-self: center;
+    text-align: center;
+  }
+  .andrew-casparius-root-class-name {
+    flex: 0;
+    left: 32px;
+    width: auto;
+    bottom: 91px;
+    height: auto;
+    position: static;
+    align-self: center;
+  }
+  .andrew-casparius-root-class-name3 {
+    flex: 0;
+    left: 32px;
+    width: auto;
+    bottom: 91px;
+    height: auto;
+    position: static;
+    align-self: center;
+  }
+  .andrew-casparius-root-class-name4 {
+    flex: 0;
+    left: 32px;
+    width: auto;
+    bottom: 91px;
+    height: auto;
+    position: static;
+    align-self: center;
+  }
+  .andrew-casparius-root-class-name5 {
+    flex: 0;
+    left: 32px;
+    width: auto;
+    bottom: 91px;
+    height: auto;
+    position: static;
+    align-self: center;
+  }
+  .andrew-casparius-root-class-name6 {
+    flex: 0;
+    left: 32px;
+    width: auto;
+    bottom: 91px;
+    height: auto;
+    position: static;
+    align-self: center;
+  }
+}
+@media(max-width: 479px) {
+  .andrew-casparius-text {
+    text-align: center;
+  }
+  .andrew-casparius-root-class-name2 {
+    width: auto;
+    height: auto;
+  }
+}
